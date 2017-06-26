@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  font-family:helvetica;
+  font-stretch: ultra-expanded;
+}
+h3 {
+  color: red;
+}
+<style>
+a:link {
+  color: purple;
+}
+
+a:visited {
+  color: red;
+  background-color: purple;
+}
+</style>
